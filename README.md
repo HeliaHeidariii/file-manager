@@ -1,0 +1,2 @@
+# file-manager
+ This code is a file management program written in Python using the os and shutil libraries. The program provides users with functionalities such as opening a file, copying a file, deleting a file, renaming a file, moving a file, creating a folder, deleting a folder, and listing all files.  To use the program, the user enters the path of the desired file or folder and selects the desired operation.  The program utilizes the Tkinter graphical user interface, and users interact with it through buttons assigned to each operation.
